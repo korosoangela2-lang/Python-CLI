@@ -1,0 +1,67 @@
+[
+    {
+        "name": "TestUser2",
+        "budgets": [
+            {
+                "title": "Test Budget",
+                "expenses": [
+                    {
+                        "title": "Coffee",
+                        "amount": 3.5,
+                        "paid": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "SmokeUser",
+        "budgets": [
+            {
+                "title": "Smoke Budget",
+                "expenses": [
+                    {
+                        "title": "Test",
+                        "amount": 1.23,
+                        "paid": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Alice",
+        "budgets": [
+            {
+                "title": "Food",
+                "expenses": [
+                    {
+                        "title": "Lunch",
+                        "amount": 200.0,
+                        "paid": true
+                    },
+                    {
+                        "title": "Lunch",
+                        "amount": 200.0,
+                        "paid": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Alice",
+        "budgets": [
+            {
+                "title": "Food",
+                "expenses": [
+                    {
+                        "title": "Lunch",
+                        "amount": 200.0,
+                        "paid": true
+                    }
+                ]
+            }
+        ]
+    }
+]
