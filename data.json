@@ -63,5 +63,15 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "Albert",
+        "budgets": [
+            {
+                "title": "Savings",
+                "expenses": []
+            }
+        ],
+        "projects": []
     }
 ]
